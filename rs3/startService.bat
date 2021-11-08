@@ -1,0 +1,2 @@
+D:\Install\mongodb5\bin\mongod.exe --config "D:\Install\mongos\rs3\mongodb.conf" --install --serviceName "mongoDBr3" --serviceDisplayName "mongoDBr3" --serviceDescription "mongoDBr3"
+net start mongoDBr3

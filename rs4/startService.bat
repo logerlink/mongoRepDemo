@@ -1,0 +1,2 @@
+D:\Install\mongodb5\bin\mongod.exe --config "D:\Install\mongos\rs4\mongodb.conf" --install --serviceName "mongoDBr4" --serviceDisplayName "mongoDBr4" --serviceDescription "mongoDBr4"
+net start mongoDBr4
